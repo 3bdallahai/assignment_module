@@ -1,0 +1,21 @@
+1.Python
+2.PostgresSQL
+3.Controllers, Models, Views
+4.`create()`
+5.Front-end templating
+6.`fields.Many2one()`
+7. By creating a new `ir.ui.menu` record
+8.To control user access to models and records
+9.By inheriting the existing model
+10.`db_backup`
+11.By updating the module and using `-u` option
+12.To define views, menus, and actions
+13.To request code reviews and merges
+14.By running `git resolve`
+15.`git clone`
+16. DEBUG
+17. To create databases
+18.By modifying the database schema
+19.Extensive planning and risk management
+20.By tracking tasks, bugs, and enhancements
+

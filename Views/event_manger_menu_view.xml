@@ -1,0 +1,5 @@
+<odoo>
+<menuitem id="root_level" name="event_manger"/>
+<menuitem id="second_level" name="event_manger" parent="root_level" action="event_action"/>
+
+</odoo>
